@@ -168,4 +168,8 @@ wandb/
 
 *.gz
 *.pt
+<<<<<<< HEAD
+=======
+*.ipynb
+>>>>>>> 2c20c4d7a9dbd59c03823a8e528a0e9573a08afb
 *.npy
