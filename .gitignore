@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 labrador/
+wandb/
 
 # C extensions
 *.so
